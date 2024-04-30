@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/456119512740666050/cbe2b08a747e4e6da93917075d05ca36/artifacts
+end_time: 1714443219836
+entry_point_name: ''
+experiment_id: '456119512740666050'
+lifecycle_stage: active
+run_id: cbe2b08a747e4e6da93917075d05ca36
+run_name: adorable-wren-996
+run_uuid: cbe2b08a747e4e6da93917075d05ca36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714443219805
+status: 3
+tags: []
+user_id: marco

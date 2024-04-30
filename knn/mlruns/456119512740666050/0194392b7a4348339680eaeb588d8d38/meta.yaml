@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/456119512740666050/0194392b7a4348339680eaeb588d8d38/artifacts
+end_time: 1714442753268
+entry_point_name: ''
+experiment_id: '456119512740666050'
+lifecycle_stage: active
+run_id: 0194392b7a4348339680eaeb588d8d38
+run_name: crawling-mole-15
+run_uuid: 0194392b7a4348339680eaeb588d8d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714442751357
+status: 3
+tags: []
+user_id: marco

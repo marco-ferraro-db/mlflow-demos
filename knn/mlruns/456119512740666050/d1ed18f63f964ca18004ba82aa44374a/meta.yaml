@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/456119512740666050/d1ed18f63f964ca18004ba82aa44374a/artifacts
+end_time: 1714443784387
+entry_point_name: ''
+experiment_id: '456119512740666050'
+lifecycle_stage: active
+run_id: d1ed18f63f964ca18004ba82aa44374a
+run_name: melodic-whale-279
+run_uuid: d1ed18f63f964ca18004ba82aa44374a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714443782437
+status: 3
+tags: []
+user_id: marco

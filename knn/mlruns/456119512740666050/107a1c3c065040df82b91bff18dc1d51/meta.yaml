@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/456119512740666050/107a1c3c065040df82b91bff18dc1d51/artifacts
+end_time: 1714442859503
+entry_point_name: ''
+experiment_id: '456119512740666050'
+lifecycle_stage: active
+run_id: 107a1c3c065040df82b91bff18dc1d51
+run_name: bittersweet-snipe-98
+run_uuid: 107a1c3c065040df82b91bff18dc1d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714442857550
+status: 3
+tags: []
+user_id: marco
