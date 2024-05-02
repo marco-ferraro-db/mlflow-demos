@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/0
-creation_time: 1714442674881
+artifact_location: file:///Users/marco.ferraro/Desktop/mlflow-demos/knn/mlruns/0
+creation_time: 1714665338964
 experiment_id: '0'
-last_update_time: 1714442674881
+last_update_time: 1714665338964
 lifecycle_stage: active
 name: Default

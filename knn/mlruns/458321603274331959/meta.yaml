@@ -1,0 +1,6 @@
+artifact_location: file:///Users/marco.ferraro/Desktop/mlflow-demos/knn/mlruns/458321603274331959
+creation_time: 1714665338971
+experiment_id: '458321603274331959'
+last_update_time: 1714665338971
+lifecycle_stage: active
+name: iris_knn_experiment

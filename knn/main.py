@@ -46,7 +46,7 @@ if __name__ == "__main__":
     # Log data to mlflow
     pd_df = pd.DataFrame(iris.data, columns=iris.feature_names)
     dataset = mlflow.data.from_pandas(pd_df)
-    mlflow.log_input(dataset, context="testing")
+    #mlflow.log_input(dataset, context="testing")
 
     # Train model
     model = KNeighborsClassifier(n_neighbors=n_neighbors)
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
     # Log metrics
     mlflow.log_metric("accuracy", accuracy)
-    mlflow.log_metric("cross_val_mean", cv_mean)
+    #mlflow.log_metric("cross_val_mean", cv_mean)
 
     # Log model
     mlflow.sklearn.log_model(model, "knn-model")

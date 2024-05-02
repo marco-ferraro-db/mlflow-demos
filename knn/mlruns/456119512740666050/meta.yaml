@@ -1,6 +1,0 @@
-artifact_location: file:///C:/Users/marco/Escritorio/MLFlowBootcamp/Practice/1/mlruns/456119512740666050
-creation_time: 1714442674893
-experiment_id: '456119512740666050'
-last_update_time: 1714442674893
-lifecycle_stage: active
-name: iris_knn_experiment
